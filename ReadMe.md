@@ -5,7 +5,7 @@ jsx - it is what we can say html in javascript it has html like syntax but we ca
 
 Components - these are reusable functions in react that are used to return jsx 
 
-###
+```
 eg-->
      
 function App() {
@@ -16,7 +16,7 @@ function App() {
   )
 }
 
-###
+```
 
 
 the name of the Component is Starts with Capital letter always
